@@ -4,7 +4,7 @@ Python Developer with experience in Web Scraping, Data Extraction, and Automatio
 
 💼 Worked on production-level scraping projects using Scrapy and Playwright.
 
-🔹 Skills:
+## Skills:
 
 * Python
 * Scrapy
@@ -18,7 +18,7 @@ Python Developer with experience in Web Scraping, Data Extraction, and Automatio
 * Threading
 * Logging
 
-🔹 Experience:
+## Experience:
 
 * Built scalable web scraping solutions
 * Developed dynamic URL generation systems
@@ -28,11 +28,11 @@ Python Developer with experience in Web Scraping, Data Extraction, and Automatio
 * Worked with GZIP compressed data and API responses
 * Followed industry-standard project structures and development practices
 
-🔹 GitHub Profiles:
+## GitHub Profiles:
 
 * Professional Work: github.com/vishal-kushvanshi-2508
 * Practice Projects: github.com/vishal-2508
 
-🎯 Currently seeking opportunities as a Python Developer / Web Scraping Developer.
+### Currently seeking opportunities as a Python Developer / Web Scraping Developer.
 
 Thanks for visiting my profile!
