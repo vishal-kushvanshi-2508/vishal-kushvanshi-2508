@@ -7,14 +7,12 @@ Python Developer with experience in Web Scraping, Data Extraction, and Automatio
 ## Skills:
 
 * Python
+* Web Scraping and automation
 * Scrapy
 * Playwright
-* Requests
 * MySQL
-* JSON
 * XPath
 * JMESPath
-* Pydantic
 * Threading
 * Logging
 
