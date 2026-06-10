@@ -34,6 +34,12 @@ https://github.com/vishal-kushvanshi-2508
 📚 Practice Projects & Learning:  
 https://github.com/vishal-2508
 
+## 📫 Contact
+
+Email: vishal.kushvanshi25@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/vishal-kushvanshi
+
 ### Currently seeking opportunities as a Python Developer / Web Scraping Developer.
 
 Thanks for visiting my profile!
