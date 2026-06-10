@@ -28,10 +28,13 @@ Python Developer with experience in Web Scraping, Data Extraction, and Automatio
 * Worked with GZIP compressed data and API responses
 * Followed industry-standard project structures and development practices
 
-## GitHub Profiles:
+### 🔗 GitHub Profiles
 
-* Professional Work: github.com/vishal-kushvanshi-2508
-* Practice Projects: github.com/vishal-2508
+💼 Professional Work (Actowiz Experience):  
+https://github.com/vishal-kushvanshi-2508
+
+📚 Practice Projects & Learning:  
+https://github.com/vishal-2508
 
 ### Currently seeking opportunities as a Python Developer / Web Scraping Developer.
 
